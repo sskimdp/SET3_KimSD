@@ -1,0 +1,14 @@
+kind,best_T,wins
+almost_sorted,5,944
+almost_sorted,10,37
+almost_sorted,20,8
+almost_sorted,50,4
+almost_sorted,30,3
+descending,5,957
+descending,10,33
+descending,20,6
+random,5,672
+random,10,109
+random,20,105
+random,30,64
+random,50,46
